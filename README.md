@@ -1,6 +1,5 @@
-# LineageOS_lisa
+# LineageOS_veux
 
-## Otaserver for Xiaomi 11 lite 5g NE ##
-Read the instructions carefully from [Here](https://itsvixano.gitlab.io/lineageos_flashing/)
+## Otaserver for POCO X4 Pro 5G/Redmi Note 11E Pro/Redmi Note 11 Pro 5G/Redmi Note 11 Pro+ 5G ##
 
-[![Release downloads](https://img.shields.io/github/downloads/ItsVixano-releases/LineageOS_lisa/total.svg)](https://github.com/ItsVixano-releases/LineageOS_lisa/releases/)
+[![Release downloads](https://img.shields.io/github/downloads/xiaomi-sm6375-devs/LineageOS_veux/total.svg)](https://github.com/xiaomi-sm6375-devs/LineageOS_veux/releases/)
